@@ -1,2 +1,2 @@
 # Scp-EnderPearl
-Because why not? Have fun
+Why not? Have fun
